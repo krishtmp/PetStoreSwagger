@@ -1,0 +1,27 @@
+# Ignore node_modules
+node_modules/
+
+# Cypress generated files
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+
+# Ignore environment files (if any)
+.env
+cypress.env.json
+
+# Ignore test output and reports (if using report generation)
+reports/
+mochawesome-report/
+cypress/reports/
+*.log
+
+# Ignore package lock files (if using Yarn)
+yarn.lock
+pnpm-lock.yaml
+
+# Ignore VS Code settings (if using VS Code)
+.vscode/
+
+# Ignore MacOS system files (if working on Mac)
+.DS_Store

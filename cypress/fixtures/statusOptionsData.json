@@ -1,0 +1,7 @@
+{
+    "status": {
+        "available" : "available",
+        "pending" : "pending",
+        "sold" : "sold"
+    }
+}

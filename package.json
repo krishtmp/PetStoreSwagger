@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/krishtmp/PetStoreSwagger/issues"
   },
-  "homepage": "https://github.com/krishtmp/PetStoreSwagger#readme"
+  "homepage": "https://github.com/krishtmp/PetStoreSwagger#readme",
+  "dependencies": {
+    "cypress": "^14.0.3"
+  }
 }
